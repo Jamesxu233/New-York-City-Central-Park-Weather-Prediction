@@ -1,0 +1,15 @@
+numpy
+pandas
+requests
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+plotly
+dash
+beautifulsoup4
+fake-useragent
+jupyter
+ipykernel
+pydot
