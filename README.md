@@ -55,16 +55,14 @@ NOAA API availability, station coverage, and returned records may change. Re-run
 .
 ├── README.md
 ├── requirements.txt
-├── .env.example
-├── .gitignore
 ├── notebooks/
 │   └── weather_prediction.ipynb
 ├── data/
-│   └── README.md
+│   └── data.csv
 ├── outputs/
-│   └── README.md
+│   └── .....
 └── reports/
-    └── README.md
+    └── report.pdf
 ```
 
 - `notebooks/weather_prediction.ipynb`: sanitized project notebook, with API credentials removed and the test-set scaling inconsistency corrected.
